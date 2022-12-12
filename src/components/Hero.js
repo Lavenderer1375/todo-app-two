@@ -8,6 +8,7 @@ const Hero = () => {
           Here You Can Finde
         </h1>
         <Typed
+          className='font-bold'
           strings={['Anything', 'Shoes', 'Bags']}
           typeSpeed={120}
           backSpeed={120}
